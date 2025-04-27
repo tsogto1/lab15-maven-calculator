@@ -1,0 +1,5 @@
+#Sun Apr 27 19:03:54 UTC 2025
+configuration*?=6CBBDB0B60DCB62F0BB79283FA3A2D0B8F8FF682
+module-resource*?\:checkstyle-xpath-suppressions.xml=4687F727DA7ABA8197838C6652423A9EA999DAD6
+module-resource*?\:checkstyle-suppressions.xml=103C75545D2901002AA6C2D303C117138E5FBEE8
+/workspaces/lab15-maven-calculator/src/main/java/labxx/sict/must/edu/mn/Calculator.java=1745780545156
